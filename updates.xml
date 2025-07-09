@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gupdate xmlns="http://www.google.com/update2/response" protocol="2.0">
   <app appid="cfinnjhliackgfidfdpbpbjlmcppkdej">
-    <updatecheck codebase="https://github.com/5a070ac3-e57c-482c-852d-92f97c3f459d"
+    <updatecheck codebase="https://raw.githubusercontent.com/RiddlezTheGod/BuildFastBlocker/refs/heads/main/BlockBuildCache.crx"
                  version="1.0" />
   </app>
 </gupdate>
